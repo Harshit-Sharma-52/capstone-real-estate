@@ -1,80 +1,80 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 🏡 Capstone Real Estate Project
 
-# LUX REALTY
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-> Luxury property is only a call and a consultation away.
+---
 
+## 📖 Table of Contents
 
-Additional description about the project and its features.
+- About the Project  
+- Built With  
+- Live Demo  
+- Features  
+- Screenshots  
+- Getting Started  
+- Author  
+- Future Improvements  
+- License  
 
-# Screenshots
-![DESKTOP VIEW](./images/LUX-REALTY.png)
-![MOBILE VIEW](./images/LUX-REALTY-MOBILE.png)
-![DROP DOWN MENU MOBILE VIEW](./images/LUX-DROP-MENU-MOBILE.png)
+---
 
+## 📌 About the Project
 
-## Built With
+Capstone Real Estate एक responsive web application है जो users को luxury properties explore करने का clean और modern experience देता है।
 
-- HTML | CSS | JavaScript
+इस project को **real-world UI/UX standards** को ध्यान में रखकर बनाया गया है ताकि:
+- Layout clean रहे  
+- Navigation simple हो  
+- Mobile experience smooth हो  
 
-## Video Explanation
+---
 
-[Watch Now](https://www.loom.com/share/12f50a8ab8774f1ab369794c0e02ee95)
+## 🛠️ Built With
 
-## Live Demo
+- HTML5 (Structure)
+- CSS3 (Styling & Responsiveness)
+- JavaScript (Interactivity)
 
-[Live Demo Link](https://stevewdamesjr.github.io/html-css-js-capstone/)
+---
 
+## 🚀 Live Demo
 
-## Getting Started
+👉 [Open Live Project] : https://harshit-sharma-52.github.io/capstone-real-estate/
 
+---
 
-To get a local copy up and running follow these simple example steps.
+## ✨ Features
 
-### Prerequisites
-- Text Editor | Git and Github set up
+✔ Responsive design (Mobile + Desktop)  
+✔ Interactive navigation menu  
+✔ Dropdown menu for mobile  
+✔ Clean UI structure  
+✔ Smooth user experience  
+✔ Organized property sections  
 
-### Setup
-- Clone repository and open with text editor
+---
 
-### Usage
-- View Portfolio 
+## 📸 Screenshots
 
+### 🖥️ Desktop View
+![Desktop](./images/LUX-REALTY.png)
 
-## Author
+### 📱 Mobile View
+![Mobile](./images/LUX-REALTY-MOBILE.png)
 
-👤 **STEVE W DAMES JR**
+### 📱 Mobile Navigation Menu
+![Menu](./images/LUX-DROP-MENU-MOBILE.png)
 
-- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
-- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
+---
 
+## ⚙️ Getting Started
 
-## 🤝 Contributing
+To run this project locally:
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Inspiration: 
-  Cindy Shin
-  GUI & Graphic Designer
-  Seoul, Korea, Republic of
-- Logo Design attribution:
-  <a href="https://www.vecteezy.com/free-vector/house">House Vectors by Vecteezy</a>
-- Photos:
-  - Photo by <a href="https://unsplash.com/@steve4c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephan Bechert</a> on <a href="https://unsplash.com/s/photos/luxury-real-estate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  - Photo by <a href="https://unsplash.com/@pho_2_graph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Avi Werde</a> on <a href="https://unsplash.com/s/photos/luxury-real-estate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  - Photo by <a href="https://unsplash.com/@webaliser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ярослав Алексеенко</a> on <a href="https://unsplash.com/s/photos/luxury-real-estate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-- Hat tip to anyone whose code was used
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+### 1. Clone the repository
+```bash
+git clone https://github.com/Harshit-Sharma-52/capstone-real-estate.git
